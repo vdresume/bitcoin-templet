@@ -362,7 +362,7 @@ marquee {
   }
 
   .div-1:hover {
-    transform: scale(1.2);
+    transform: scale(1);
     background: #5d8330c9;
   }
 
